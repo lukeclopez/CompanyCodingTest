@@ -21,6 +21,13 @@ Alex was only utilized 5% because `2 / 40 = 0.05`.
 
 Additionally, workers who were utilized more than 100% should float to the top. If a worker goes over 8 hours in a single day, than any amount of time over 8 hours should count as double utilization. This way, a manager can easily see who is working overtime.
 
+The analysis will include:
+
+- Expertise in the selected language
+- Problem solving techniques as described in the readme and documentation
+- Testing approach
+- Overall software design
+
 ### Usage Instructions
 
 After downloading and extracting the `tar` file, ensure you have Python 3.6+ on your system.
