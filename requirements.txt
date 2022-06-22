@@ -4,7 +4,7 @@ autopep8==1.4.4
 colorama==0.4.3
 iso8601==0.1.12
 more-itertools==8.0.2
-numpy==1.18.0
+numpy==1.22.0
 packaging==19.2
 pluggy==0.13.1
 py==1.8.0
